@@ -17,12 +17,17 @@ Each rectangle is a vector and arrows represent functions, the green vectors hol
 - [Tensorflow - Keras](https://www.tensorflow.org/api_docs/python/tf/keras)
 - [tensorflow](https://www.tensorflow.org/)
 - [Numpy](https://numpy.org/)
-- [Matplotlib](https://matplotlib.org/)
+- [Unicodedata](https://docs.python.org/3/library/unicodedata.html)
+- [String](https://docs.python.org/3/library/string.html)
+- [Re](https://docs.python.org/3/library/re.html)
 
 ### Results:
 Specific translations of English to French
 
 ### Accuracy:
--
+- loss: 0.3833
+- val_loss: 2.1110
+
+
 
 Reference: https://towardsdatascience.com/language-translation-with-rnns-d84d43b40571
